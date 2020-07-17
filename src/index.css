@@ -5,6 +5,11 @@ body {
   background-color: #444;
   color: #fff;
   text-align: center;
+
+  background: #232526;
+  background: -webkit-linear-gradient(to right, #414345, #232526);
+  background: linear-gradient(to right, #414345, #232526);
+
 }
 
 h1,
